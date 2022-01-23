@@ -10,6 +10,15 @@ webpack.config.ts
 webpack.generated.js
 /src/test/resources/apexcharts.d.ts
 
+# Added for port to Vaadin 22
+.npmrc
+/frontend/generated/
+types.d.ts
+webpack.config.js
+tsconfig.json
+pnpm-lock.yaml
+pnpmfile.js
+
 # eclipse
 /.settings
 .classpath
