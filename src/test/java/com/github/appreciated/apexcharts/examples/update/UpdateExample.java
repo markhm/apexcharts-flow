@@ -16,7 +16,6 @@ import com.vaadin.flow.component.page.Push;
 import com.vaadin.flow.router.Route;
 
 @Route("update")
-@Push
 public class UpdateExample extends VerticalLayout {
 
     public UpdateExample() {

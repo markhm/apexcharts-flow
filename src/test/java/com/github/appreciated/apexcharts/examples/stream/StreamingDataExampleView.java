@@ -22,7 +22,6 @@ import java.security.SecureRandom;
 import java.util.ArrayList;
 
 @Route("stream")
-@Push
 public class StreamingDataExampleView extends ExampleHolderView {
 
     private final ApexCharts chart;
